@@ -27,7 +27,7 @@ A simple scoreboard application built using vanilla JavaScript, HTML, and CSS. T
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/hafiz229/scoreboard-application.git
    ```
 
 2. Navigate to the project directory:
